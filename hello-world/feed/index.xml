@@ -7,9 +7,9 @@
 	>
 <channel>
 	<title>
-	Comentários sobre PagBank Integrações	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	Comentários sobre: Hello world!	</title>
+	<atom:link href="/hello-world/feed/" rel="self" type="application/rss+xml" />
+	<link>/hello-world/</link>
 	<description>Módulos e plugins para integrar sua loja virtual com PagBank (PagSeguro) - Por Ricardo Martins</description>
 	<lastBuildDate>Wed, 27 Dec 2023 17:50:44 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 	<item>
 		<title>
-		Comentário sobre Hello world! por A WordPress Commenter		</title>
+		Por: A WordPress Commenter		</title>
 		<link>/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>

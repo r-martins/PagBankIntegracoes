@@ -9,8 +9,8 @@
 
 <channel>
 	<title>PagBank Integrações</title>
-	<atom:link href="/feed" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
 	<description>Módulos e plugins para integrar sua loja virtual com PagBank (PagSeguro) - Por Ricardo Martins</description>
 	<lastBuildDate>Wed, 27 Dec 2023 17:50:44 +0000</lastBuildDate>
 	<language>pt-BR</language>
@@ -21,28 +21,31 @@
 	<generator>https://wordpress.org/?v=6.4.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2023/12/logo-pagbank-connect-integracoes-150x150.png</url>
+	<url>/wp-content/uploads/2023/12/cropped-logo-2019-integracoes-icon-64x64-1-32x32.png</url>
 	<title>PagBank Integrações</title>
-	<link>/</link>
+	<link></link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Hello world!</title>
-		<link>/hello-world.html</link>
-					<comments>/hello-world.html#comments</comments>
+		<link>/hello-world/</link>
+					<comments>/hello-world/#comments</comments>
 		
-		<dc:creator><![CDATA[rafibidube7877]]></dc:creator>
+		<dc:creator><![CDATA[Ricardo Martins]]></dc:creator>
 		<pubDate>Wed, 27 Dec 2023 17:50:44 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
 		<guid isPermaLink="false">https://pagbankintegracoes.instawp.xyz/?p=1</guid>
 
-					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+					<description><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<p>O post <a href="/hello-world/">Hello world!</a> apareceu primeiro em <a href="/">PagBank Integrações</a>.</p>
+]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+<p>O post <a href="/hello-world/">Hello world!</a> apareceu primeiro em <a href="/">PagBank Integrações</a>.</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/hello-world.html/feed</wfw:commentRss>
+					<wfw:commentRss>/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
